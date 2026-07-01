@@ -1,4 +1,3 @@
-إليك النص جاهزاً للنسخ مباشرة (بدون أي علامات نجوم):
 
 Customer Churn: Prediction & Retention Strategy
 
